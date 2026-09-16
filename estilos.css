@@ -15,5 +15,10 @@ input, button {
     padding: 10px; 
 }
 button {
-    cursor: pointer; 
+ padding: 10px 18px;
+ background: #1f4e79;
+ color: white;
+ border: none;
+ border-radius: 5px;
+ cursor: pointer;
 }
